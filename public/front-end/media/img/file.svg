@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="25px" viewBox="0 0 18 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>docs</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Uzstandart22" transform="translate(-668.000000, -2055.000000)" fill-rule="nonzero">
+            <g id="Group-7-Copy" transform="translate(128.000000, 1518.000000)">
+                <g id="docs" transform="translate(540.000000, 537.000000)">
+                    <path d="M17.9715484,6.78556452 L17.9715484,23.1781935 C17.9715484,24.0597581 17.2564839,24.7741452 16.3755968,24.7741452 L1.62445161,24.7741452 C0.742887097,24.7741452 0.0285,24.0597581 0.0285,23.1781935 L0.0285,1.59595161 C0.0284516129,0.714387097 0.74283871,0 1.62445161,0 L11.1859839,0 L17.9715484,6.78556452 Z" id="Shape" fill="#FFFFFF"></path>
+                    <g id="Group" transform="translate(4.403226, 12.435484)" fill="#184FA8">
+                        <rect id="Rectangle-path" x="0.00870967742" y="0.00261290323" width="9.17545161" height="1.01956452"></rect>
+                        <rect id="Rectangle-path" x="0.00870967742" y="2.2796129" width="9.17545161" height="1.01956452"></rect>
+                        <rect id="Rectangle-path" x="0.00870967742" y="4.55666129" width="9.17545161" height="1.01956452"></rect>
+                        <rect id="Rectangle-path" x="0.00870967742" y="6.83370968" width="6.52524194" height="1.01956452"></rect>
+                    </g>
+                    <polygon id="Shape" fill="#3A5BBC" points="12.1117742 6.63812903 17.9715484 9.05220968 17.9715484 6.78556452 14.6492419 5.8046129"></polygon>
+                    <path d="M17.9715484,6.78556452 L12.7819355,6.78556452 C11.9003226,6.78556452 11.1859839,6.07117742 11.1859839,5.1896129 L11.1859839,0 L17.9715484,6.78556452 Z" id="Shape" fill="#ACD1FC"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
